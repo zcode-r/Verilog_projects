@@ -175,8 +175,6 @@ Provides a safe transition before returning control to the main road.
 ---
 # 📈 Simulation Waveform
 
-> Paste simulation waveform screenshot here
-
 <p align="center">
    <img width="1887" height="182" alt="Screenshot 2026-06-04 004600" src="https://github.com/user-attachments/assets/e16b43e2-5978-4a5a-bd8e-77282b03a809" />
 </p>
